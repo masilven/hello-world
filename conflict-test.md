@@ -1,3 +1,3 @@
-#hello-world
+#hello-world - conflict-test
 
-Testing
+Testing a conflict, caused by e.g. lack of communication.
